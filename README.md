@@ -1,0 +1,3 @@
+     This project is a C++ Windows DirectX project that uses a library of DirectX functions put into a DX3 class. The Canvas object class upon which all the graphics drawomh takes place, is a subclass of the DX3 class.
+     This project uses multi-threading to load a large amount of bowling tournament data. The match play records of the 12 competitors involved, get progressively updated on the screen using one thread to load the data, and the other thread to display the results.
+     In addition to being a Windows DirectX multi-threaded project, this project also has a simultaneous console component, displaying additional info about the competitors' results.
